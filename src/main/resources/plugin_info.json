@@ -1,0 +1,11 @@
+{
+  "name": "ToggleSounds",
+  "version": "1.0",
+  "description": "Play sounds when toggling a module",
+  "url": "https://github.com/ToxicAven/ToggleSounds",
+  "authors": [ "ToxicAven" ],
+  "main_class": "dev.toxicaven.ToggleSounds",
+  "min_api_version": "3.0",
+  "mixins": [ "mixins.ToggleSounds.json" ],
+  "required_plugins": []
+}

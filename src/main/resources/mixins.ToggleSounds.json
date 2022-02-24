@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "dev.toxicaven.mixins",
+  "refmap": "mixins.ExamplePlugin.refmap.json",
+  "client": [
+    "MixinMinecraft"
+  ]
+}
